@@ -13,6 +13,7 @@ Personal curation of learning resources. Work in progress.
 ### General DS/ML 
 1. [10-601 Machine Learning by CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
 2. [Intro To ML with Coders](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)
+3. Time Series Analysis - [ritvikmath](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3)
 
 ### Machine Learning Engineering Resources
 1. [Eugene Yan - Applied ML resources](https://github.com/eugeneyan/applied-ml)
