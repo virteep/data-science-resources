@@ -5,8 +5,9 @@ Personal curation of learning resources. Work in progress.
 1. [Intuitive Introduction to Probability](https://www.coursera.org/learn/introductiontoprobability)
 2. [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
-### Statistics
+### Statistics/Experimentation
 1. Intro to Hypothesis Testing - [jbstatistics](https://www.youtube.com/playlist?list=PLvxOuBpazmsNo893xlpXNfMzVpRBjDH67), [khan academy](https://www.khanacademy.org/math/statistics-probability)
+2. [Experimentation in Other Companies](https://twitter.com/GergelyOrosz/status/1350831467354578945)
 
 ### SQL
 
