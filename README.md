@@ -9,7 +9,8 @@ Personal curation of learning resources. Work in progress.
 1. Intro to Hypothesis Testing - [jbstatistics](https://www.youtube.com/playlist?list=PLvxOuBpazmsNo893xlpXNfMzVpRBjDH67), [khan academy](https://www.khanacademy.org/math/statistics-probability)
 2. [Experimentation in Other Companies](https://twitter.com/GergelyOrosz/status/1350831467354578945)
 
-### SQL
+### Data Engg/SQL
+1. [Learning Path for Data Engineering](https://awesomedataengineering.com/)
 
 ### General DS/ML 
 1. [10-601 Machine Learning by CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml)
