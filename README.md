@@ -27,3 +27,4 @@ Personal curation of learning resources. Work in progress.
 3. [40 Probability & Statistics Data Science Interview Questions](https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street)
 4. [OVER 100 Data Scientist Interview Questions and Answers!](https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-answers-c5a66186769a)
 5. [PRACTICE QUESTIONS ON BAYES’S FORMULA AND ON PROBABILITY](https://www2.math.upenn.edu/~mmerling/math107%20docs/practice%20on%20Bayes%20solutions.pdf)
+6. [rbhatia46/Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)
